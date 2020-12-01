@@ -1,0 +1,12 @@
+[package]
+name = "adventofcode-2020"
+version = "0.1.0"
+authors = ["Fabricio Augusto <fabricionaweb@gmail.com>"]
+edition = "2018"
+
+[[bin]]
+name = "hello-world"
+path = "src/hello-world/main.rs"
+
+[dependencies]
+ferris-says = "0.2.0"
