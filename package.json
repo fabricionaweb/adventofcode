@@ -1,0 +1,24 @@
+{
+  "name": "adventofcode-2020",
+  "version": "1.0.0",
+  "description": "My JavaScript solutions for 2020",
+  "type": "module",
+  "scripts": {
+    "test": "uvu",
+    "test:watch": "watchlist src -- yarn test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabricionaweb/adventofcode-2020.git"
+  },
+  "author": "fabricionaweb@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabricionaweb/adventofcode-2020/issues"
+  },
+  "homepage": "https://github.com/fabricionaweb/adventofcode-2020#readme",
+  "devDependencies": {
+    "uvu": "^0.5.0",
+    "watchlist": "^0.2.3"
+  }
+}
